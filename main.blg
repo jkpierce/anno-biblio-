@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: IEEEannot.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: annot.bib
+Repeated entry---line 428 of file annot.bib
+ : @article{Ancey2014a
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 553 of file annot.bib
+ : @article{Heyman2016
+ :                    ,
+I'm skipping whatever remains of this entry
+-- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for use with work to be submitted to the IEEE.
+Warning--empty journal in Lajeunesse2017
+
+Done.
+You've used 55 entries,
+            4480 wiz_defined-function locations,
+            1250 strings with 18260 characters,
+and the built_in function-call counts, 53270 in all, are:
+= -- 4891
+> -- 1501
+< -- 473
++ -- 771
+- -- 352
+* -- 2904
+:= -- 8143
+add.period$ -- 111
+call.type$ -- 55
+change.case$ -- 343
+chr.to.int$ -- 1017
+cite$ -- 56
+duplicate$ -- 3340
+empty$ -- 3471
+format.name$ -- 401
+if$ -- 11847
+int.to.chr$ -- 0
+int.to.str$ -- 55
+missing$ -- 535
+newline$ -- 242
+num.names$ -- 112
+pop$ -- 1237
+preamble$ -- 1
+purify$ -- 285
+quote$ -- 2
+skip$ -- 3940
+stack$ -- 0
+substring$ -- 2694
+swap$ -- 2858
+text.length$ -- 134
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 494
+warning$ -- 1
+while$ -- 290
+width$ -- 57
+write$ -- 651
+(There were 2 error messages)

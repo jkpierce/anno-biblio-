@@ -1,0 +1,365 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{Abbotts;Francis1977}
+S.~Abbott and S.~Francis, ``{Saltation and suspension trajectories of solid
+  grains in a water stream},'' \emph{Royal Transations of the Royal Society of
+  London A.}, vol. 294, no. 1321, pp. 225--254, 1977.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ancey2014}
+C.~Ancey, P.~Bohorquez, and E.~Bardou, ``{Sediment Transport in Mountain
+  Rivers},'' \emph{ERCOFTAC Bulletin.}, vol. 100, pp. 37--52, 2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ancey2015}
+C.~Ancey, P.~Bohorquez, and J.~Heyman, ``{Stochastic interpretation of the
+  advection-diffusion},'' \emph{Journal of Geophysical Research : Earth
+  Surface}, vol. 120, pp. 325--345, 2015.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ancey2008}
+C.~Ancey, A.~C. Davison, T.~B{\"{o}}hm, M.~Jodeau, and P.~Frey, ``{Entrainment
+  and motion of coarse particles in a shallow water stream down a steep
+  slope},'' \emph{Journal of Fluid Mechanics}, vol. 595, no. 2008, pp. 83--114,
+  2008.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ancey2014a}
+C.~Ancey and J.~Heyman, ``{A microstructural approach to bed load transport:
+  mean behaviour and fluctuations of particle transport rates},'' \emph{Journal
+  of Fluid Mechanics}, vol. 744, no. 2014, pp. 129--168, 2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ancey2010}
+C.~Ancey, ``{Stochastic modeling in sediment dynamics: Exner equation for
+  planar bed incipient bed load transport conditions},'' \emph{Journal of
+  Geophysical Research: Earth Surface}, vol. 115, no.~F2, pp. n/a--n/a, 2010.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ancey2006}
+C.~Ancey, T.~B{\"{o}}hm, M.~Jodeau, and P.~Frey, ``{Statistical description of
+  sediment transport experiments},'' \emph{Physical Review E - Statistical,
+  Nonlinear, and Soft Matter Physics}, vol.~74, no.~1, pp. 1--14, 2006.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{AndersonP.W.1972}
+{Anderson P.W.}, ``{More is Different},'' pp. 393--396, 1972.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ballio2018}
+F.~Ballio, D.~Pokrajac, A.~Radice, and S.~{Hosseini Sadabadi}, ``{Lagrangian
+  and Eulerian Description of Bed Load Transport},'' \emph{Journal of
+  Geophysical Research: Earth Surface}, pp. 384--408, 2018.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ballio2014}
+F.~Ballio, V.~Nikora, and S.~E. Coleman, ``{On the definition of solid
+  discharge in hydro-environment research and applications},'' \emph{Journal of
+  Hydraulic Research}, vol.~52, no.~2, pp. 173--184, 2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Bohm2004}
+T.~B{\"{o}}hm, C.~Ancey, P.~Frey, J.~L. Reboud, and C.~Ducottet,
+  ``{Fluctuations of the solid discharge of gravity-driven particle flows in a
+  turbulent stream},'' \emph{Physical Review E - Statistical, Nonlinear, and
+  Soft Matter Physics}, vol.~69, no. 6 1, pp. 1--13, 2004.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Campagnol2013}
+J.~Campagnol, A.~Radice, R.~Nokes, V.~Bulankina, A.~Lescova, and F.~Ballio,
+  ``{Lagrangian analysis of bed-load sediment motion: Database contribution},''
+  \emph{Journal of Hydraulic Research}, vol.~51, no.~5, pp. 589--596, 2013.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Cand`es2005}
+E.~Cand`es and J.~Romberg, ``{Practical Signal Recovery from Random
+  Projections},'' \emph{IS{\&}T/SPIE's 17th Annual Symposium on Electronic
+  Imaging}, vol. 2291, no. 626, p.~18, 2005.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{CHARRU2004}
+F.~Charru, H.~Mouilleron, and O.~Eiff, ``{Erosion and deposition of particles
+  on a bed sheared by a viscous flow},'' \emph{Journal of Fluid Mechanics},
+  vol. 519, no. 2004, pp. 55--80, 2004.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Crocker1996}
+J.~Crocker and D.~Grier, ``{Methods of Digital Video Microscopy for Colloidal
+  Studies},'' \emph{Journal of Colloid and Interface Science}, vol. 179, no.~1,
+  pp. 298--310, 1996.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Drake1988}
+T.~G. Drake, R.~L. Shreve, W.~E. Dietrich, P.~J. Whiting, and L.~B. Leopold,
+  ``{Bedload transport of fine gravel observed by motion-picture
+  photography},'' \emph{Journal of Fluid Mechanics}, vol. 192, no. 1988, p.
+  193, 1988.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Einstein1937}
+H.~A. Einstein, ``{Bedload transport as a probability problem},'' Ph.D.
+  dissertation, Wasserbau Eidg. Tech. , Hoschsch, Zurich, 1937.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ettema2004}
+R.~Ettema and C.~F. Mutel, ``{Hans Albert Einstein: Innovation and Compromise
+  in Formulating Sediment Transport by Rivers},'' \emph{Journal of Hydraulic
+  Engineering}, vol. 130, no.~6, pp. 477--487, 2004.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Fathel2016}
+S.~Fathel, D.~Furbish, and M.~Schmeeckle, ``{Parsing anomalous versus normal
+  diffusive behavior of bedload sediment particles},'' \emph{Earth Surface
+  Processes and Landforms}, vol.~41, no.~12, pp. 1797--1803, 2016.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Fathel2015}
+S.~L. Fathel, D.~J. Furbish, and M.~W. Schmeeckle, ``{Experimental evidence of
+  statistical ensemble behavior in bed load sediment transport},''
+  \emph{Journal of Geophysical Research F: Earth Surface}, vol. 120, no.~11,
+  pp. 2298--2317, 2015.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2012}
+D.~J. Furbish, A.~E. Ball, and M.~W. Schmeeckle, ``{A probabilistic description
+  of the bed load sediment flux: 4. Fickian diffusion at low transport
+  rates},'' \emph{Journal of Geophysical Research: Earth Surface}, vol. 117,
+  no.~3, pp. 1--13, 2012.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2017a}
+D.~J. Furbish, S.~L. Fathel, and M.~W. Schmeeckle, ``{Particle Motions and Bed
+  Load Theory : The Entrainment Forms of the Flux and the Exner Equation},'' in
+  \emph{Gravel-Bed Rivers: Processes and Disasters}, 1st~ed., D.~Tsutsumi and
+  J.~B. Laronne, Eds.\hskip 1em plus 0.5em minus 0.4em\relax John Wiley {\&}
+  Sons Ltd., 2017, ch.~4, pp. 97--120.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2017}
+D.~J. Furbish, S.~L. Fathel, M.~W. Schmeeckle, D.~J. Jerolmack, and R.~Schumer,
+  ``{The elements and richness of particle diffusion during sediment transport
+  at small timescales},'' \emph{Earth Surface Processes and Landforms},
+  vol.~42, no.~1, pp. 214--237, 2017.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2012a}
+D.~J. Furbish, P.~K. Haff, J.~C. Roseberry, and M.~W. Schmeeckle, ``{A
+  probabilistic description of the bed load sediment flux: 1. Theory},''
+  \emph{Journal of Geophysical Research: Earth Surface}, vol. 117, no.~3, 2012.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2012b}
+D.~J. Furbish, J.~C. Roseberry, and M.~W. Schmeeckle, ``{A probabilistic
+  description of the bed load sediment flux: 3. the particle velocity
+  distribution and the diffusive flux},'' \emph{Journal of Geophysical
+  Research: Earth Surface}, vol. 117, no.~3, 2012.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2013}
+D.~J. Furbish and M.~W. Schmeeckle, ``{A probabilistic derivation of the
+  exponential-like distribution of bed load particle velocities},'' \emph{Water
+  Resources Research}, vol.~49, no.~3, pp. 1537--1551, 2013.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Furbish2016}
+D.~J. Furbish, M.~W. Schmeeckle, R.~Schumer, and S.~L. Fathel, ``{Probability
+  distributions of bed load particle velocities, accelerations, hop distances,
+  and travel times informed by Jaynes's principle of maximum entropy},''
+  \emph{Journal of Geophysical Research: Earth Surface}, vol. 121, no.~7, pp.
+  1373--1390, 2016.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Hassan2015}
+M.~A. Hassan and D.~N. Bradley, ``{Geomorphic controls on tracer particle
+  dispersion in gravel bed rivers},'' \emph{Gravel-Bed Rivers 8}, vol.~30, no.
+  September, pp. 3--9, 2015.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Hassan1991}
+M.~A. Hassan, M.~Church, and A.~P. Schick, ``{Distance of movement of coarse
+  particles in gravel bed streams},'' \emph{Water Resources Research}, vol.~27,
+  no.~4, pp. 503--511, 1991.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Heyman2015}
+J.~Heyman, P.~Boh{\'{o}}rquez, and C.~Ancey, ``{Exploring the physics of
+  sediment transport in non-uniform super-critical flows through a large
+  dataset of particle trajectories},'' \emph{J. Geophys. Res:Earth Surf.}, vol.
+  submitted, 2015.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Heyman2016}
+J.~Heyman, P.~Bohorquez, and C.~Ancey, ``{Entrainment, motion, and deposition
+  of coarse particles transported by water over a sloping mobile bed},''
+  \emph{Journal of Geophysical Research: Earth Surface}, vol. 121, no.~10, pp.
+  1931--1952, 2016.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Heyman2014b}
+\BIBentryALTinterwordspacing
+J.~Heyman, H.~B. Ma, F.~Mettra, and C.~Ancey, ``{Spatial correlations in bed
+  load transport: Evidence, importance, and modeling},'' \emph{Journal of
+  Geophysical Research: Earth Surface}, vol. 119, no.~8, pp. 1751--1767, 2014.
+  [Online]. Available: \url{http://doi.wiley.com/10.1002/2013JF003003}
+\BIBentrySTDinterwordspacing
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Heyman2014}
+------, ``{Spatial correlations in bed load transport : Evidence , importance ,
+  and modeling},'' \emph{Journal of Geophysical Research : Earth Surface}, pp.
+  1751--1767, 2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Heyman2013}
+J.~Heyman, F.~Mettra, H.~B. Ma, and C.~Ancey, ``{Statistics of bedload
+  transport over steep slopes: Separation of time scales and collective
+  motion},'' \emph{Geophysical Research Letters}, vol.~40, no.~1, pp. 128--133,
+  2013.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Hoey1992}
+T.~B. Hoey, ``{Temporal variations in bedload transport in rates and sediment
+  storage},'' \emph{Progress in Physical Geography}, vol.~16, no.~3, pp.
+  319--338, 1992.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Kalinske1947}
+A.~A. Kalinske, ``{Movement of sediment as bed load in rivers},'' \emph{Eos,
+  Transactions American Geophysical Union}, vol.~28, no.~4, pp. 615--620, 1947.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Kuhn1955}
+H.~Kuhn, ``{The Hungarian Method for the Assignment Problem},'' \emph{Naval
+  Research Logistics Quarterly}, vol.~2, no.~1, pp. 83--97, 1955.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Lajeunesse2010}
+E.~Lajeunesse, L.~Malverti, and F.~Charru, ``{Bed load transport in turbulent
+  flow at the grain scale: Experiments and modeling},'' \emph{Journal of
+  Geophysical Research: Earth Surface}, vol. 115, no.~4, 2010.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Lajeunesse2017}
+E.~Lajeunesse, O.~Devauchelle, and F.~James, ``{Advection and dispersion of
+  bedload tracers},'' no. November, pp. 1--19, 2017.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Ma2014}
+H.~Ma, J.~Heyman, X.~Fu, F.~Mettra, C.~Ancey, and G.~Parker, ``{Bed load
+  transport over a broad range of timescales: Determination of three regimes of
+  fluctuations},'' \emph{Journal of Geophysical Research: Earth Surface}, vol.
+  119, no.~12, 2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Nelson2014}
+P.~A. Nelson, D.~Bellugi, and W.~E. Dietrich, ``{Delineation of river
+  bed-surface patches by clustering high-resolution spatial grain size data},''
+  \emph{Geomorphology}, vol. 205, pp. 102--119, 2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Pietikainen2013}
+M.~Pietik{\"{a}}inen, M.~Turk, L.~Wang, G.~Zhao, and L.~Cheng, ``{Machine
+  learning in motion analysis: New advances},'' \emph{Image and Vision
+  Computing}, vol.~31, no. 6-7, pp. 419--420, 2013.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Radice2006}
+A.~Radice, S.~Malavasi, and F.~Bailio, ``{Solid transport measurements through
+  image processing},'' \emph{Experiments in Fluids}, vol.~41, no.~5, pp.
+  721--734, 2006.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Radice2009}
+A.~Radice, F.~Ballio, and V.~Nikora, ``{On statistical properties of bed load
+  sediment concentration},'' \emph{Water Resources Research}, vol.~45, no.~6,
+  pp. 1--8, 2009.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Roseberry2012}
+J.~C. Roseberry, M.~W. Schmeeckle, and D.~J. Furbish, ``{A probabilistic
+  description of the bed load sediment flux: 2. Particle activity and
+  motions},'' \emph{Journal of Geophysical Research: Earth Surface}, vol. 117,
+  no.~3, 2012.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Saletti2015}
+M.~Saletti, P.~Molnar, A.~E. Zimmermann, M.~A. Hassan, and M.~Church,
+  ``{Temporal variability and memory in sediment transport in an experimental
+  step-pool channel},'' \emph{Water Resour. Res.}, vol.~51, pp. 1649--1670,
+  2015.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Sayre1965}
+W.~Sayre and D.~Hubbell, ``{Transport and Dispersion of Labeled Bed Material
+  North Loup River , Nebraska},'' \emph{Transport of Radionuclides by Streams},
+  1965.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Schmeeckle2007}
+M.~W. Schmeeckle, J.~M. Nelson, and R.~L. Shreve, ``{Forces on stationary
+  particles in near-bed turbulent flows},'' \emph{Journal of Geophysical
+  Research: Earth Surface}, vol. 112, no.~2, pp. 1--21, 2007.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Schmidhuber2015}
+J.~Schmidhuber, ``{Deep Learning in neural networks: An overview},''
+  \emph{Neural Networks}, vol.~61, pp. 85--117, 2015.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Seizilles2014}
+G.~Seizilles, E.~Lajeunesse, O.~Devauchelle, and M.~Bak, ``{Cross-stream
+  diffusion in bedload transport},'' \emph{Physics of Fluids}, vol.~26, no.~1,
+  2014.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Singh2009}
+A.~Singh, K.~Fienberg, D.~J. Jerolmack, J.~Marr, and E.~Foufoula-Georgiou,
+  ``{Experimental evidence for statistical scaling and intermittency in
+  sediment transport rates},'' \emph{Journal of Geophysical Research: Earth
+  Surface}, vol. 114, no.~1, pp. 1--16, 2009.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Sumer2003}
+B.~M. Sumer, L.~H.~C. Chua, N.-S. Cheng, and J.~Freds{\o}e, ``{Influence of
+  Turbulence on Bed Load Sediment Transport},'' \emph{Journal of Hydraulic
+  Engineering}, vol. 129, no.~8, pp. 585--596, 2003.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Venditti2017}
+J.~G. Venditti, P.~A. Nelson, R.~W. Bradley, D.~Haught, and A.~B. Gitto,
+  ``{Bedforms, Structures, Patches, and Sediment Supply in Gravel-Bed
+  Rivers},'' \emph{Gravel-Bed Rivers}, pp. 439--466, 2017.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Voepel2013}
+H.~Voepel, R.~Schumer, and M.~A. Hassan, ``{Sediment residence time
+  distributions: Theory and application from bed elevation measurements},''
+  \emph{Journal of Geophysical Research: Earth Surface}, vol. 118, no.~4, pp.
+  2557--2567, 2013.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Xue2017}
+Y.~Xue, N.~Ray, J.~Hugh, and G.~Bigras, ``{A novel framework to integrate
+  convolutional neural network with compressed sensing for cell detection},''
+  \emph{IEEE Transations on Image Processing}, pp. 2319--2323, 2017.
+ \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\end{thebibliography}
