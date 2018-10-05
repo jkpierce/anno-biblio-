@@ -56,7 +56,16 @@ C.~Ancey, A.~C. Davison, T.~B{\"{o}}hm, M.~Jodeau, and P.~Frey, ``{Entrainment
 C.~Ancey and J.~Heyman, ``{A microstructural approach to bed load transport:
   mean behaviour and fluctuations of particle transport rates},'' \emph{Journal
   of Fluid Mechanics}, vol. 744, no. 2014, pp. 129--168, 2014.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent Ancey obtains a macroscopic exner equation from a
+  birth death equation. This exner equation is a linear advection diffusion
+  equation with a source term. This paper introduces linked birth-death
+  processes between cells and takes the limit as the width of cells goes to
+  zero to obtain advection diffusion formulation of sediment transport. Number
+  fluctuations in the ith cell are considered the result of four factors: (1)
+  transport into the cell from its neighboring upstream cell; (2) individual or
+  collective entrainment within the cell; (3) deposition within the cell; and
+  (4) migration out of the cell to the neighboring cell downstream.
+  \end{quotation}
 
 \bibitem{Ancey2010}
 C.~Ancey, ``{Stochastic modeling in sediment dynamics: Exner equation for
@@ -73,6 +82,16 @@ C.~Ancey, T.~B{\"{o}}hm, M.~Jodeau, and P.~Frey, ``{Statistical description of
 \bibitem{AndersonP.W.1972}
 {Anderson P.W.}, ``{More is Different},'' pp. 393--396, 1972.
  \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+
+\bibitem{Arteta2014}
+C.~Arteta, V.~Lempitsky, and A.~Zisserman, ``{Interactive Object Counting},''
+  \emph{ECCV}, vol. 8691, 2014.
+ \begin{quotation}\noindent Authors pursue object counting through ridge
+  regression. The target is a field of 2d Kronecker deltas at the point
+  annotation of each object. The output is a 2d density map. There is no
+  requirement of object segmentation: point annotations are sufficient.
+  Integrals of the density map give object counts. This is a conventional
+  algorithm which does not use neural learning. \end{quotation}
 
 \bibitem{Ballio2018}
 F.~Ballio, D.~Pokrajac, A.~Radice, and S.~{Hosseini Sadabadi}, ``{Lagrangian
@@ -127,7 +146,18 @@ T.~G. Drake, R.~L. Shreve, W.~E. Dietrich, P.~J. Whiting, and L.~B. Leopold,
 \bibitem{Einstein1937}
 H.~A. Einstein, ``{Bedload transport as a probability problem},'' Ph.D.
   dissertation, Wasserbau Eidg. Tech. , Hoschsch, Zurich, 1937.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent Einstein seeded tracer particles into an artificial
+  flume and observed their movement character- istics. He interpreted particle
+  transport as a switching process between two phases: the first is a resting
+  phase, and the second is a movement phase. The parameter relevant to the
+  resting phase is the time spent there, the resting time. The parameter
+  relevant to the movement phase is the distance covered within it, the
+  particle hop length. Time spent in motion was considered irrelevant, since
+  the time spent in motion is very short relative to resting time. Within this
+  formulation, the travel distance of a tracer particle in a time interval
+  emerges from considering the phase to phase switching, in which one accounts
+  for the total of all hop distances and the total of all resting times through
+  the switching which occurred in the time interval. \end{quotation}
 
 \bibitem{Ettema2004}
 R.~Ettema and C.~F. Mutel, ``{Hans Albert Einstein: Innovation and Compromise
@@ -201,7 +231,7 @@ D.~J. Furbish, M.~W. Schmeeckle, R.~Schumer, and S.~L. Fathel, ``{Probability
 M.~A. Hassan and D.~N. Bradley, ``{Geomorphic controls on tracer particle
   dispersion in gravel bed rivers},'' \emph{Gravel-Bed Rivers 8}, vol.~30, no.
   September, pp. 3--9, 2015.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent need it \end{quotation}
 
 \bibitem{Hassan1991}
 M.~A. Hassan, M.~Church, and A.~P. Schick, ``{Distance of movement of coarse
@@ -221,7 +251,20 @@ J.~Heyman, P.~Bohorquez, and C.~Ancey, ``{Entrainment, motion, and deposition
   of coarse particles transported by water over a sloping mobile bed},''
   \emph{Journal of Geophysical Research: Earth Surface}, vol. 121, no.~10, pp.
   1931--1952, 2016.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent There is a very nice outline here of the way
+  different approaches to stochastic sediment transport theories have arrived
+  at the same advection diffusion formulation (as in Parker or Ancey et al
+  2014). This is used to introduce an overarching problem termed 'lack of
+  closure' to stochastic models. Closure is the relationship between the
+  parameters required by advection diffusion forumations of sediment transport
+  rate to measurable channel parameters. In this paper Heyman presents an
+  experiment where particle motion was tracked from the side. Median background
+  subtraction was employed to get particle velocity and acceleration
+  distributions. There are a few unique contributions such as average particle
+  velocity as a function of particle elevation. Two methods are described for
+  calculating particle diffusivity. Analysis of particle properties seems to
+  follow something similar to Ballio et al 2018, involving Gaussian smoothing
+  kernels. \end{quotation}
 
 \bibitem{Heyman2014b}
 \BIBentryALTinterwordspacing
@@ -259,7 +302,10 @@ A.~A. Kalinske, ``{Movement of sediment as bed load in rivers},'' \emph{Eos,
 \bibitem{Kuhn1955}
 H.~Kuhn, ``{The Hungarian Method for the Assignment Problem},'' \emph{Naval
   Research Logistics Quarterly}, vol.~2, no.~1, pp. 83--97, 1955.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent This is the classic paper introducing the Hungarian
+  method for the assignment problem. The assignment problem is the cheapest way
+  to assign workers to jobs provided each worker has a specific cost to compete
+  a specific job. \end{quotation}
 
 \bibitem{Lajeunesse2010}
 E.~Lajeunesse, L.~Malverti, and F.~Charru, ``{Bed load transport in turbulent
@@ -270,7 +316,21 @@ E.~Lajeunesse, L.~Malverti, and F.~Charru, ``{Bed load transport in turbulent
 \bibitem{Lajeunesse2017}
 E.~Lajeunesse, O.~Devauchelle, and F.~James, ``{Advection and dispersion of
   bedload tracers},'' no. November, pp. 1--19, 2017.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent This is a nice physics-like paper. They take the
+  Charru 2004 model for advection of bedload tracers and solve it both
+  numerically and exactly in asympototic regimes. They note super-super
+  diffusion (to use G Parker's term) at short timescales and Brownian diffusion
+  (I think) at long timescales. They analyze scaling behavior of mean tracer
+  position, variance of tracer position, and skew of tracer position, and find
+  two scaling regimes in each. These analyses all applied for steady transport
+  conditions. They extended their analysis to unsteady flow conditions as one
+  finds in nature by incorporating an intermittency factor which rescales time
+  using the fraction of above-threshold flows. They also eliminate time from
+  the scaling equations on variance and skew, expressing variance as a function
+  of travel distance. "According to this model, it should be possible to
+  estimate the particle flight length and the average bed load transport rate
+  from the evo- lution of the variance and the skewness of a plume of tracers
+  in a river." \end{quotation}
 
 \bibitem{Ma2014}
 H.~Ma, J.~Heyman, X.~Fu, F.~Mettra, C.~Ancey, and G.~Parker, ``{Bed load
@@ -301,7 +361,22 @@ A.~Radice, S.~Malavasi, and F.~Bailio, ``{Solid transport measurements through
 A.~Radice, F.~Ballio, and V.~Nikora, ``{On statistical properties of bed load
   sediment concentration},'' \emph{Water Resources Research}, vol.~45, no.~6,
   pp. 1--8, 2009.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent This is a long duration video observation of
+  bedload transport. A nice quote from the introduction: many empirical and
+  phenomenological formulations for predicting solid discharge in open channels
+  have been proposed. However, the estimates of the solid transport rate using
+  these conventional equations proved to be highly uncertain [e.g., Gomez and
+  Church, 1989; Martin, 2003], leading to increased attention to the
+  small-scale details of sediment transport, which could help in advancing the
+  existing relationships." They also note several observations that bedload
+  velocity is only weakly dependent on shear stress conditions at the bed,
+  meaning activity or concentration fluctuations drive sediment transport
+  fluctuations. This is in agreement with Ancey 2008. They measure water flow
+  in 1D with ADV. They find an inertial range with -5/3 exponent. They find
+  scaling behavior in sediment concentration fluctuations: exponent -5/3 was
+  obtained characteristic of the fluid and concentration profiles. The
+  experiment observed dyed tracer grains from above at low transport stages
+  with no sediment recirculation. \end{quotation}
 
 \bibitem{Roseberry2012}
 J.~C. Roseberry, M.~W. Schmeeckle, and D.~J. Furbish, ``{A probabilistic
@@ -345,7 +420,9 @@ A.~Singh, K.~Fienberg, D.~J. Jerolmack, J.~Marr, and E.~Foufoula-Georgiou,
   ``{Experimental evidence for statistical scaling and intermittency in
   sediment transport rates},'' \emph{Journal of Geophysical Research: Earth
   Surface}, vol. 114, no.~1, pp. 1--16, 2009.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent This is one of two papers I know of which measure a
+  time series of bed elevations within a location in a flume experiment.
+  \end{quotation}
 
 \bibitem{Sumer2003}
 B.~M. Sumer, L.~H.~C. Chua, N.-S. Cheng, and J.~Freds{\o}e, ``{Influence of
@@ -370,6 +447,12 @@ H.~Voepel, R.~Schumer, and M.~A. Hassan, ``{Sediment residence time
 Y.~Xue, N.~Ray, J.~Hugh, and G.~Bigras, ``{A novel framework to integrate
   convolutional neural network with compressed sensing for cell detection},''
   \emph{IEEE Transations on Image Processing}, pp. 2319--2323, 2017.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent The authors use a convolutional neural network
+  which takes in an image containing objects and gives out a vector. This
+  vector is a compressed representation of the pixel level positions of objects
+  within the image. The vector is formed by multiplying the sparse array
+  encoding pixel level positions by a Gaussian random matrix. Compressed
+  sensing theory provides a way to recover the encoded signal with high
+  accuracy using L1 optimization. \end{quotation}
 
 \end{thebibliography}

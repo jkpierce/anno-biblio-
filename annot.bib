@@ -1,10 +1,26 @@
+@article{Arteta2014,
+	author = {Arteta, Carlos and Lempitsky, Victor and Zisserman, Andrew},
+	volume = {8691},
+	title = {{Interactive Object Counting}},
+	year = {2014},
+	journal = {ECCV},
+	annote = {Authors pursue object counting through ridge regression. The target is a field of 2d Kronecker deltas at the point annotation of each object. The output is a 2d density map. There is no requirement of object segmentation: point annotations are sufficient. Integrals of the density map give object counts. This is a conventional algorithm which does not use neural learning.}
+}
+
+
+
+
 @article{Lajeunesse2017,
 author = {Lajeunesse, Eric and Devauchelle, Olivier and James, Fran{\c{c}}ois},
 number = {November},
 pages = {1--19},
 title = {{Advection and dispersion of bedload tracers}},
 year = {2017},
-annote = {need to write the annote 4 dis}
+annote = {This is a nice physics-like paper. They take the Charru 2004 model for advection of bedload tracers and solve it both numerically and exactly in asympototic regimes. They note super-super diffusion (to use G Parker's term) at short timescales and Brownian diffusion (I think) at long timescales. They analyze scaling behavior of mean tracer position, variance of tracer position, and skew of tracer position, and find two scaling regimes in each. These analyses all applied for steady transport conditions. They extended their analysis to unsteady flow conditions as one finds in nature by incorporating an intermittency factor which rescales time using the fraction of above-threshold flows. They also eliminate time from the scaling equations on variance and skew, expressing variance as a function of travel distance. "According to
+this model, it should be possible to estimate the particle flight
+length and the average bed load transport rate from the evo-
+lution of the variance and the skewness of a plume of tracers
+in a river."}
 }
 
 @article{Radice2009,
@@ -16,7 +32,7 @@ pages = {1--8},
 title = {{On statistical properties of bed load sediment concentration}},
 volume = {45},
 year = {2009},
-annote = {need to write the annote 4 dis}
+annote = {This is a long duration video observation of bedload transport. A nice quote from the introduction: many empirical and phenomenological formulations for predicting solid discharge in open channels have been proposed. However, the estimates of the solid transport rate using these conventional equations proved to be highly uncertain [e.g., Gomez and Church, 1989; Martin, 2003], leading to increased attention to the small-scale details of sediment transport, which could help in advancing the existing relationships." They also note several observations that bedload velocity is only weakly dependent on shear stress conditions at the bed, meaning activity or concentration fluctuations drive sediment transport fluctuations. This is in agreement with Ancey 2008. They measure water flow in 1D with ADV. They find an inertial range with -5/3 exponent. They find scaling behavior in sediment concentration fluctuations: exponent -5/3 was obtained characteristic of the fluid and concentration profiles. The experiment observed dyed tracer grains from above at low transport stages with no sediment recirculation.}
 }
 
 @article{Ancey2014a,
@@ -27,7 +43,7 @@ pages = {129--168},
 title = {{A microstructural approach to bed load transport: mean behaviour and fluctuations of particle transport rates}},
 volume = {744},
 year = {2014},
-annote = {need to write the annote 4 dis}
+annote = {Ancey obtains a macroscopic exner equation from a birth death equation. This exner equation is a linear advection diffusion equation with a source term. This paper introduces linked birth-death processes between cells and takes the limit as the width of cells goes to zero to obtain advection diffusion formulation of sediment transport. Number fluctuations in the ith cell are considered the result of four factors: (1) transport into the cell from its neighboring upstream cell; (2) individual or collective entrainment within the cell; (3) deposition within the cell; and (4) migration out of the cell to the neighboring cell downstream.}
 }
 
 @article{Heyman2016,
@@ -41,7 +57,7 @@ pages = {1931--1952},
 title = {{Entrainment, motion, and deposition of coarse particles transported by water over a sloping mobile bed}},
 volume = {121},
 year = {2016},
-annote = {need to write the annote 4 dis}
+annote = {There is a very nice outline here of the way different approaches to stochastic sediment transport theories have arrived at the same advection diffusion formulation (as in Parker or Ancey et al 2014). This is used to introduce an overarching problem termed 'lack of closure' to stochastic models. Closure is the relationship between the parameters required by advection diffusion forumations of sediment transport rate to measurable channel parameters. In this paper Heyman presents an experiment where particle motion was tracked from the side. Median background subtraction was employed to get particle velocity and acceleration distributions. There are a few unique contributions such as average particle velocity as a function of particle elevation. Two methods are described for calculating particle diffusivity. Analysis of particle properties seems to follow something similar to Ballio et al 2018, involving Gaussian smoothing kernels.}
 }
 
 @article{Heyman2014b,
@@ -71,7 +87,7 @@ pmid = {15890271},
 title = {{The Hungarian Method for the Assignment Problem}},
 volume = {2},
 year = {1955},
-annote = {need to write the annote 4 dis}
+annote = {This is the classic paper introducing the Hungarian method for the assignment problem. The assignment problem is the cheapest way to assign workers to jobs provided each worker has a specific cost to compete a specific job. }
 }
 
 @phdthesis{Einstein1937,
@@ -79,7 +95,15 @@ author = {Einstein, Hans Albert},
 school = {Wasserbau Eidg. Tech. , Hoschsch, Zurich},
 title = {{Bedload transport as a probability problem}},
 year = {1937},
-annote = {need to write the annote 4 dis}
+annote = {Einstein seeded tracer particles into an artificial flume and observed their movement character-
+istics. He interpreted particle transport as a switching process between two phases: the first is a
+resting phase, and the second is a movement phase. The parameter relevant to the resting phase
+is the time spent there, the resting time. The parameter relevant to the movement phase is the
+distance covered within it, the particle hop length. Time spent in motion was considered irrelevant,
+since the time spent in motion is very short relative to resting time. Within this formulation, the
+travel distance of a tracer particle in a time interval emerges from considering the phase to phase
+switching, in which one accounts for the total of all hop distances and the total of all resting times
+through the switching which occurred in the time interval.}
 }
 
 @article{Radice2006,
@@ -110,7 +134,7 @@ pages = {1--16},
 title = {{Experimental evidence for statistical scaling and intermittency in sediment transport rates}},
 volume = {114},
 year = {2009},
-annote = {need to write the annote 4 dis}
+annote = {This is one of two papers I know of which measure a time series of bed elevations within a location in a flume experiment. }
 }
 
 @article{Hassan2015,
@@ -121,7 +145,7 @@ pages = {3--9},
 title = {{Geomorphic controls on tracer particle dispersion in gravel bed rivers}},
 volume = {30},
 year = {2015},
-annote = {need to write the annote 4 dis}
+annote = {need it }
 }
 
 @article{Xue2017,
@@ -133,7 +157,7 @@ journal = {IEEE Transations on Image Processing},
 pages = {2319--2323},
 title = {{A novel framework to integrate convolutional neural network with compressed sensing for cell detection}},
 year = {2017},
-annote = {need to write the annote 4 dis}
+annote = {The authors use a convolutional neural network which takes in an image containing objects and gives out a vector. This vector is a compressed representation of the pixel level positions of objects within the image. The vector is formed by multiplying the sparse array encoding pixel level positions by a Gaussian random matrix. Compressed sensing theory provides a way to recover the encoded signal with high accuracy using L1 optimization.}
 }
 
 @article{Cand`es2005,

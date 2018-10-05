@@ -8,11 +8,11 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: annot.bib
-Repeated entry---line 428 of file annot.bib
+Repeated entry---line 452 of file annot.bib
  : @article{Ancey2014a
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 553 of file annot.bib
+Repeated entry---line 577 of file annot.bib
  : @article{Heyman2016
  :                    ,
 I'm skipping whatever remains of this entry
@@ -23,45 +23,45 @@ I'm skipping whatever remains of this entry
 Warning--empty journal in Lajeunesse2017
 
 Done.
-You've used 55 entries,
+You've used 56 entries,
             4480 wiz_defined-function locations,
-            1251 strings with 18991 characters,
-and the built_in function-call counts, 53270 in all, are:
-= -- 4891
-> -- 1501
-< -- 473
-+ -- 771
-- -- 352
-* -- 2904
-:= -- 8143
-add.period$ -- 111
-call.type$ -- 55
-change.case$ -- 343
+            1267 strings with 24852 characters,
+and the built_in function-call counts, 53873 in all, are:
+= -- 4947
+> -- 1521
+< -- 474
++ -- 780
+- -- 358
+* -- 2938
+:= -- 8248
+add.period$ -- 113
+call.type$ -- 56
+change.case$ -- 349
 chr.to.int$ -- 1017
-cite$ -- 56
-duplicate$ -- 3340
-empty$ -- 3471
-format.name$ -- 401
-if$ -- 11847
+cite$ -- 57
+duplicate$ -- 3383
+empty$ -- 3515
+format.name$ -- 408
+if$ -- 11974
 int.to.chr$ -- 0
-int.to.str$ -- 55
-missing$ -- 535
-newline$ -- 242
-num.names$ -- 112
-pop$ -- 1237
+int.to.str$ -- 56
+missing$ -- 543
+newline$ -- 246
+num.names$ -- 114
+pop$ -- 1259
 preamble$ -- 1
-purify$ -- 285
+purify$ -- 290
 quote$ -- 2
-skip$ -- 3940
+skip$ -- 3984
 stack$ -- 0
-substring$ -- 2694
-swap$ -- 2858
-text.length$ -- 134
+substring$ -- 2700
+swap$ -- 2884
+text.length$ -- 135
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 494
+type$ -- 503
 warning$ -- 1
-while$ -- 290
-width$ -- 57
-write$ -- 651
+while$ -- 292
+width$ -- 58
+write$ -- 661
 (There were 2 error messages)
