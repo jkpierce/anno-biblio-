@@ -37,13 +37,57 @@ S.~Abbott and S.~Francis, ``{Saltation and suspension trajectories of solid
 \bibitem{Ancey2014}
 C.~Ancey, P.~Bohorquez, and E.~Bardou, ``{Sediment Transport in Mountain
   Rivers},'' \emph{ERCOFTAC Bulletin.}, vol. 100, pp. 37--52, 2014.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent "Gilbert (1914), which is credited with the first
+  comprehensive experimental investigation into bed load transport in inclined
+  flumes [5]." "The introduction of a finite-size volume in Eq. (3) leads to
+  additional problems: how can we distinguish fluctuations that are intrinsic
+  to the phenomenon and those that are induced by the average process?"
+  "Planform structures (e.g., bars and meanders) as well as bed forms (e.g,
+  rip- ples, dunes, steps and pools) have attracted considerable attention from
+  geomorphologists and hydraulicians. " "The mainstream view is that bed
+  structures arise from a loss of stability of the bed due to the coupling
+  between the turbulent water stream, sediment trans- port, and bed topography
+  [15]. The main difficulty is that depth-averaged equations such as the
+  Saint-Venant- Exner equations (see § 3.1) are linearly stable for Froude
+  numbers as large as 2. The calculation of bed form ini- tiation and
+  propagation then requires a more elaborate framework." The idea is to count
+  the number of moving particles in a control volume or in an array of adjacent
+  volumes of length ∆x. In this paper they review the Markov model for number
+  fluctuations, including their two methods of solution. First the master
+  equation is written expressing transport/entrainment/deposition among and in
+  an array of cells. Then they review two methods of solution. The first is to
+  do a Kramer's Moyal expansion to obtain a Fokker Planck Equation.
+  Unfortunately all terms are important: it's a strongly interacting situation.
+  The second is to do a Poisson transformation. In this way they obtain the
+  moments of the distribution. In summary it's somehow revealed to be a
+  negative binomial distribution for the particle number. As collective
+  entrianment is turned off it becomes a Poisson distribution-- the same as the
+  result of Einstein 1937. They further develop a Lagevin equation approach to
+  find that the velocity distribution should be truncated Gaussian. They do not
+  even nearly resolve an exponential distribution as was noted by Furbish. They
+  note that number fluctuations drive sediment transport fluctuations, a point
+  which is corroborated by Furbish and Radice. They convolve velocity and
+  number distributions to obtain a probability distribution of the sediment
+  transport rate (numerical computation). They note only a few other authors
+  have done this. Einstein did not actually do this-- Hamamori (1962) and
+  Turowski (2010). They find poor agreement with their experiment on 6mm glass
+  beads. They propose either (1) Velocities and Numbers are correlated, or (2)
+  They did not consider multiple modes of motion, and rolling and saltating
+  regimes move at much different paces. There is some other stuff I did not
+  read. I did not really finish the paper as it got dry and long-winded.
+  \end{quotation}
 
 \bibitem{Ancey2015}
 C.~Ancey, P.~Bohorquez, and J.~Heyman, ``{Stochastic interpretation of the
   advection-diffusion},'' \emph{Journal of Geophysical Research : Earth
   Surface}, vol. 120, pp. 325--345, 2015.
- \begin{quotation}\noindent need to write the annote 4 dis \end{quotation}
+ \begin{quotation}\noindent In this paper they use the Kramers-Moyal expansion
+  to solve their Markov model over an array of cells with c = n/L the continuum
+  concentration as L goes to 0. "This article is concerned with the microscopic
+  foundation of the advection-diffusion equation with a source term. This is
+  the best Ancey paper and deserves a careful read. They do the
+  multidimensional Poisson transform here to solve their Markov equation on an
+  array of cells." \end{quotation}
 
 \bibitem{Ancey2008}
 C.~Ancey, A.~C. Davison, T.~B{\"{o}}hm, M.~Jodeau, and P.~Frey, ``{Entrainment
